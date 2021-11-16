@@ -1,0 +1,20 @@
+/*----------------------------------- productes destacats*/
+.top-project{
+    padding: 20px;
+    margin: 7vw 0;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+    width: 85%;
+    background: #F5EBE0;
+    }
+    .info-top-project{
+      margin: auto 0;
+    }
+    .top-project img{
+      border: 1px solid rgba(0, 0, 0, 0.226);
+      padding: 0;
+      border-radius: 7px;
+    }
+    .left{
+      margin-left: auto;
+    }

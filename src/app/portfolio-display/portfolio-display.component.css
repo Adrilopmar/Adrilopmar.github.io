@@ -1,0 +1,19 @@
+/*----------------------------------- productes destacats*/
+
+.contenidor-productes .productes {
+  width: 90%;
+   margin: 10vw auto 15vw auto;
+}
+.title {
+  padding-bottom: 2vw;
+  border-bottom: 1px solid #674014;
+  font-weight: bold; 
+  
+  width: 40%;
+  margin: 0 auto ;}
+  h3{
+    font-size: 32px;
+  }
+  h4{
+    font-size: 24px;
+  }
